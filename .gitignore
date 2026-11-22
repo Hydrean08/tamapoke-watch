@@ -1,0 +1,13 @@
+.gradle/
+build/
+app/build/
+app/.cxx/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.iml
+.idea/
+.DS_Store
+tests_host/test_wear_shim
+tests_host/tamapoke_wear_test_*
